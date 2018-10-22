@@ -1,5 +1,5 @@
 _repo: The-Complete-Works-of-James-Whitcomb-Riley-Volume-10_692
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Short stories, American'
 - !lcsh 'American poetry'
 - !lcsh 'American essays'
+- GITenberg
 title: The Complete Works of James Whitcomb Riley — Volume 10
 url: http://www.gutenberg.org/ebooks/692
